@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">listas_jetpack_proyecto</string>
+    <string name = "posicion">Posicion</string>
+    <string name = "dorsal">Dorsal</string>
+    <string name = "edad">Edad</string>
+    <string name = "descripcion">Trayectoria</string>
+</resources>
